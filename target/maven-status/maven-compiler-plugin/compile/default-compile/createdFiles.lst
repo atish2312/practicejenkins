@@ -1,0 +1,8 @@
+driver\DriverFactory.class
+pages\ProductAdd.class
+pages\LoginPage.class
+utilities\ExtentManager.class
+utilities\ConfigReader.class
+pages\CheckoutPage.class
+utilities\ScreenshotUtil.class
+utilities\Waits.class
